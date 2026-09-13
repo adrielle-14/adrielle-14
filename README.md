@@ -43,13 +43,22 @@ Akamai • Cloudflare • Fortigate • Wazuh • OSSEC • Tenable • Nessus �
 📋 **Governance and Compliance**  
 PCI DSS 3.2 and 4.0 • LGPD • ISO 27001 • OWASP Top 10 • OWASP API Top 10 • MITRE ATT&CK • NIST CSF • CIS Controls
 
+## Featured project
+
+### [Security PoC Template](https://github.com/adrielle-14/security-poc-template)
+
+Public and anonymized AppSec template focused on reproducible security validation. It includes example PoCs for common vulnerability classes, an inverted regression approach to validate fixes and a reporting pipeline for technical evidence.
+
+The project generalizes the methodology and tooling used in application security reviews without exposing client data, internal systems or private findings.
+
 ## Selected experience
 
 🔎 **Incident Response and Investigation**  
 Investigation, correlation of security events, containment, root cause analysis and postmortem in critical environments.
 
 🧩 **Application Security**  
-Security review of applications and APIs with validation of authorization logic, authentication, data exposure and third party risk.
+Security review of applications and APIs with validation of authorization logic, authentication, data exposure and third party risk.  
+[View anonymized Security PoC Template](https://github.com/adrielle-14/security-poc-template)
 
 📡 **SIEM and Detection**  
 Assessment of log sources, asset criticality, visibility requirements and roadmap definition for security monitoring.
