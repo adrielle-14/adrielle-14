@@ -35,7 +35,7 @@ AWS • Linode • IBM Cloud • Linux • Windows Server • Active Directory �
 Kubernetes • RKE2 • Rancher • Docker • ArgoCD • GitHub Actions • GitOps • CI/CD • Helm • Puppet
 
 📊 **Observability and Data**  
-Grafana • Zabbix • Elastic • OpenTelemetry • ClickHouse • SQL Server • PostgreSQL • MySQL • MongoDB • Redis
+Grafana • Zabbix • Elastic • Kibana • OpenTelemetry • ClickHouse • SQL Server • PostgreSQL • MySQL • MongoDB • Redis
 
 🔐 **Security Stack**  
 Akamai • Cloudflare • Fortigate • Wazuh • OSSEC • Tenable • Nessus • Snyk • Google Workspace Security
