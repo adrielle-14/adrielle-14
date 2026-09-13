@@ -58,7 +58,7 @@ Investigation, correlation of security events, containment, root cause analysis 
 
 🧩 **Application Security**  
 Security review of applications and APIs with validation of authorization logic, authentication, data exposure and third party risk.  
-[View anonymized Security PoC Template](https://github.com/adrielle-14/security-poc-template)
+[View technical template on GitHub](https://github.com/adrielle-14/security-poc-template)
 
 📡 **SIEM and Detection**  
 Assessment of log sources, asset criticality, visibility requirements and roadmap definition for security monitoring.
