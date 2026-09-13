@@ -9,6 +9,12 @@
   Security built on real infrastructure knowledge.
 </p>
 
+<p align="center">
+  <a href="https://adrielle-14.github.io">Portfolio</a> •
+  <a href="https://www.linkedin.com/in/adrielle14">LinkedIn</a> •
+  <a href="mailto:adrielle.1404@gmail.com">Email</a>
+</p>
+
 ## About me
 
 I am a technology professional with more than 6 years of experience in critical and regulated environments, working at the intersection of Cyber Security, Infrastructure, Cloud and Operations.
@@ -64,5 +70,6 @@ My profile is intentionally hybrid. Security, infrastructure and cloud are not s
 ## Contact
 
 📍 Rio Claro, São Paulo, Brazil  
+🌐 [Portfolio](https://adrielle-14.github.io)  
 💼 [LinkedIn](https://www.linkedin.com/in/adrielle14)  
 📧 [adrielle.1404@gmail.com](mailto:adrielle.1404@gmail.com)
