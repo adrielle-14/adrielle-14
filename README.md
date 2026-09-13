@@ -29,7 +29,7 @@ I believe strong cybersecurity starts with understanding how infrastructure actu
 Incident Response • SecOps • WAF and CDN • SIEM • Vulnerability Management • Threat Detection • IAM • Zero Trust • Endpoint Security • AppSec
 
 ☁️ **Infrastructure and Cloud**  
-AWS • Linode • IBM Cloud • VPC • VLAN • Linux • Windows Server • Active Directory • DNS • HAProxy • NGINX • Fortigate • pfSense • VMware • Hyper V
+AWS • Amazon ECR • Route 53 • Amazon OpenSearch Service • Linode • IBM Cloud • VPC • VLAN • Linux • Windows Server • Active Directory • DNS • HAProxy • NGINX • Fortigate • pfSense • VMware • Hyper V
 
 ⚙️ **Platform and DevSecOps**  
 Kubernetes • RKE2 • Rancher • Docker • ArgoCD • GitHub Actions • GitOps • CI/CD • Helm • Puppet
