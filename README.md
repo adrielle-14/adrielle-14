@@ -67,7 +67,7 @@ Assessment of log sources, asset criticality, visibility requirements and roadma
 Operation of highly available container platforms and automated delivery using Kubernetes, Rancher, ArgoCD and GitHub Actions.
 
 💳 **PCI DSS**  
-Hands on participation in certification, renewal and transition from PCI DSS 3.2 to 4.0, including technical controls, hardening, evidence and audit support.
+Responsible for leading PCI DSS certification renewal and the transition from 3.2 to 4.0, including environment remediation, evidence and audit documentation, technical control reviews, independent pentest follow up, finding remediation and audit support.
 
 ☁️ **Datacenter and Cloud Migration**  
 Planning and execution of infrastructure and database migrations with continuity, validation, rollback planning and post migration monitoring.
