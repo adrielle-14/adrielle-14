@@ -29,7 +29,7 @@ I believe strong cybersecurity starts with understanding how infrastructure actu
 Incident Response • SecOps • WAF and CDN • SIEM • Vulnerability Management • Threat Detection • IAM • Zero Trust • Endpoint Security • AppSec
 
 ☁️ **Infrastructure and Cloud**  
-AWS • Linode • IBM Cloud • Linux • Windows Server • Active Directory • DNS • HAProxy • NGINX • VMware • Hyper V
+AWS • Linode • IBM Cloud • VPC • VLAN • Linux • Windows Server • Active Directory • DNS • HAProxy • NGINX • Fortigate • pfSense • VMware • Hyper V
 
 ⚙️ **Platform and DevSecOps**  
 Kubernetes • RKE2 • Rancher • Docker • ArgoCD • GitHub Actions • GitOps • CI/CD • Helm • Puppet
@@ -38,7 +38,7 @@ Kubernetes • RKE2 • Rancher • Docker • ArgoCD • GitHub Actions • Git
 Grafana • Zabbix • Elastic • Kibana • OpenTelemetry • ClickHouse • SQL Server • PostgreSQL • MySQL • MongoDB • Redis
 
 🔐 **Security Stack**  
-Akamai • Cloudflare • Fortigate • Wazuh • OSSEC • Tenable • Nessus • Snyk • Google Workspace Security
+Akamai • Cloudflare • Fortigate • pfSense • Wazuh • OSSEC • Tenable • Nessus • Snyk • Google Workspace Security • Microsoft 365 Security
 
 📋 **Governance and Compliance**  
 PCI DSS 3.2 and 4.0 • LGPD • ISO 27001 • OWASP Top 10 • OWASP API Top 10 • MITRE ATT&CK • NIST CSF • CIS Controls
